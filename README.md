@@ -56,17 +56,6 @@ Defect present → shows defect label
 
 No defect → shows "No Defect"
 
-## 📦 Folder Structure
-📁 Code used for Model Implementation/
-  ├── Code used for YOLO models.ipynb
-  ├── Code used for CNN models.ipynb
-  ├── Final_deploy.ipynb
-  ├── XAI- Code.py
-
-📁 Code used for App Deployment/
-  ├── android_app/ (Android Studio project files)
-  ├── gradle/
-  ├── settings.gradle.kts
   
 ## 📌 Future Work
 
